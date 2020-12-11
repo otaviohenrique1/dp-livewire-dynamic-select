@@ -74,6 +74,7 @@
             font-size: 2em;
             border: none;
             padding: 8px;
+            margin-top: 32px;
         }
 
     </style>
