@@ -66,11 +66,21 @@
             color: red;
         }
 
+        button {
+            width: 100%;
+            background-color: green;
+            color: white;
+            font-size: 2em;
+            border: none;
+            padding: 8px;
+        }
+
     </style>
     @livewireStyles
 </head>
 <body>
     <div class="container">
+        <h2>Novo Livro</h2>
         <form>
             <label for="title">Título</label> <br>
             <input type="text" id="title" class="mb"> <br>
@@ -92,6 +102,8 @@
                 <li>Rafael</li>
                 <li>Samira</li>
             </ul>
+
+            <button type="submit">Cadastrar</button>
         </form>
     </div>
     @livewireScripts
