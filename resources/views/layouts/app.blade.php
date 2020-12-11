@@ -30,6 +30,7 @@
             list-style: none;
             padding: 8px;
             width: 100%;
+            cursor: pointer;
         }
 
         ul li:hover {

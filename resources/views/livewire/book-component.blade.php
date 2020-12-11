@@ -1,6 +1,6 @@
     <div class="container">
         <h2>Novo Livro</h2>
-        <form>
+        <form wire:submit.prevent="create" >
             <label for="title">Título</label> <br>
             <input type="text" id="title" class="mb"> <br>
 

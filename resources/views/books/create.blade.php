@@ -3,6 +3,6 @@
 @section('content')
 
     <!-- Livewire Component - Book -->
-    @livewire('book')
+    @livewire('book-component')
 
 @endsection
