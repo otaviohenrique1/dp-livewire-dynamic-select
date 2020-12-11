@@ -85,14 +85,12 @@
                 <li>Luiz</li>
                 <li>Leonan</li>
                 <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
-                <li>Wesley</li>
+                <li>Manuella</li>
+                <li>Alfredo</li>
+                <li>Regina</li>
+                <li>Candido</li>
+                <li>Rafael</li>
+                <li>Samira</li>
             </ul>
         </form>
     </div>
